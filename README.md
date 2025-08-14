@@ -1,6 +1,6 @@
 # Comprehensive Assessment of Alternative Splicing Analysis Methods for Single-cell RNA-seq
 
-![Pipeline overview](code/fig/pipeline.png)
+![Pipeline overview](fig/pipeline.png)
 
 This repository provides a comprehensive benchmarking framework for evaluating computational methods designed to analyze alternative splicing (AS) in single-cell transcriptomes. We systematically benchmarked six single-cell AS analysis methods—**BRIE2, scQuint, Psix, SpliZ, MARVEL, and SCASL**—to evaluate:
 
